@@ -4,7 +4,6 @@
 # Add our dependencies.
 import csv
 import os
-from tkinter import N
 
 # Add a variable to load a file from a path.
 file_to_load = os.path.join(".", "resources", "election_results.csv")
@@ -65,7 +64,7 @@ with open(file_to_load) as election_data:
 
         # 4a: Write an if statement that checks that the
         # county does not match any existing county in the county list.
-        if county_name not in counties_and_votes:
+        if county_name not in county_list:
         
             # 4b: Add the existing county to the list of counties.
             county_list.append(county_name)
@@ -106,10 +105,10 @@ with open(file_to_save, "w") as txt_file:
             )
         txt_file.write(county_voting_results)
          # 6f: Write an if statement to determine the winning county and get its vote count.
-        if (county_votes > largest_county_votes) and (county_vote_percentage > winning_percentage):
-                largest_turnout_county = county_votes
-                winning_percentage = county_vote_percentage
-                winning_county = county_name
+        if (county_votes > largest_county_votes): 
+            largest_county_votes = county_votes
+            #winning_percentage = county_vote_percentage
+            winning_county = county_name
 
     # 7: Print the county with the largest turnout to the terminal.
     winning_county_summary = (
@@ -137,7 +136,7 @@ with open(file_to_save, "w") as txt_file:
         print(candidate_results)
         #  Save the candidate results to our text file.
         txt_file.write(candidate_results)
-
+        
         # Determine winning vote count, winning percentage, and candidate.
         if (votes > winning_count) and (vote_percentage > winning_percentage):
             winning_count = votes

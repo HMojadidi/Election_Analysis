@@ -35,7 +35,7 @@ The analysis of the election showed the following results:
     .   Diana DeGette: 73.8% (272,892)
     .   Raymon Anthony Doanne: 3.1% (11,606)
     .   The winner of the election was Diane Degette.
-    .   The results  were generated on an election_Analysis.txt:
+    .   The results were generated on an election_analysis.txt:
     
     
 

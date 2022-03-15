@@ -8,17 +8,17 @@ I have been hired by the Colorado Board of Elections employee to help complete t
 
 The purpose of this audit is to perform the following tasks:
 
-.   Calculate the total number of votes cast.
-.   Compile a list of candidates who received votes.
-.   Calculate the total number of votes each candidate received.
-.   Calculate the percentage of votes each candidate won.
-.   The winner of the election basedon popular vote.
+    .   Calculate the total number of votes cast.
+    .   Compile a list of candidates who received votes.
+    .   Calculate the total number of votes each candidate received.
+    .   Calculate the percentage of votes each candidate won.
+    .   The winner of the election basedon popular vote.
 
 For the added challenge, I am required to also find:
 
-.   The vote turnout for each county.
-.   The percentage of votes from each county out of the total vote count.
-.   The county with the highest voter turnout.
+    .   The vote turnout for each county.
+    .   The percentage of votes from each county out of the total vote count.
+    .   The county with the highest voter turnout.
 
 ### Resources
 

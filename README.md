@@ -42,7 +42,11 @@ The analysis of the election showed the following results:
 
 <img width="784" alt="Module 3 Challenge results screenshot" src="https://user-images.githubusercontent.com/95712234/158280894-363c3925-d6f3-49fe-8bb6-14f016428088.png">
 
+## Summary
 
+The audit extracted the required information from the election data records. After some trial and error, I was able to produce codes to help run an analysis on the data. I used Python in Visual Studio Code and the following prinout is from the Terminal. 
+
+<img width="506" alt="Terminal Printout for Module 3 Challenge" src="https://user-images.githubusercontent.com/95712234/158282022-6184f485-c214-4caa-a367-702ecdc62206.png">
 
 
 

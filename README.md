@@ -29,15 +29,15 @@ For the added challenge, I am required to also find:
 
 The analysis of the election showed the following results:
 
-.   There were 369,711 votes cast in this election
-.   The 3 candidates, the number of their votes and percentage of votes were:
-
+    .   There were 369,711 votes cast in this election
+    .   The 3 candidates, the number of their votes and percentage of votes were:
     .   Charles Casper Stockhom: 23.0 % (85,213)
     .   Diana DeGette: 73.8% (272,892)
     .   Raymon Anthony Doanne: 3.1% (11,606)
-
-.   The winner of the election was Diane Degette.
-.   The results  were generated on an election_Analysis.txt:
+    .   The winner of the election was Diane Degette.
+    .   The results  were generated on an election_Analysis.txt:
+    
+    
 
 
 <img width="784" alt="Module 3 Challenge results screenshot" src="https://user-images.githubusercontent.com/95712234/158280894-363c3925-d6f3-49fe-8bb6-14f016428088.png">
